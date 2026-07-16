@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-It is an end-to-end multilingual Generative AI project focused on fine-tuning a LLM model for **Hindi children's story generation**.
+It is an end-to-end multilingual Generative AI project focused on fine-tuning a LLM model for **children's story generation in hindi**.
 
 The project demonstrates a complete LLM adaptation pipeline:
 
