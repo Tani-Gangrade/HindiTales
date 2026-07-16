@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+
+*.pyc
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+BalKatha-LoRA/
+checkpoints/
