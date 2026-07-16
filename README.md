@@ -19,7 +19,7 @@ The primary objective was to explore how efficiently multilingual LLMs can be ad
 
 ---
 
-# ✨ Features
+# 🎯 Features
 
 - 📚 TinyStories dataset preprocessing
 - 🌍 English → Hindi translation using NLLB-200
@@ -27,7 +27,7 @@ The primary objective was to explore how efficiently multilingual LLMs can be ad
 - 🤖 LoRA fine-tuning on Qwen2.5
 - 📖 Hindi story generation
 - 📊 ROUGE evaluation
-- 🎯 Interactive Gradio interface
+- 🧩 Interactive Gradio interface
 
 ---
 
@@ -137,18 +137,6 @@ HindiTales.ipynb
 
 Run all cells sequentially.
 
----
-
-# 📁 Repository Structure
-
-```
-HindiTales-LLM
-│
-├── HindiTales.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
 ---
 
 # 💡 Future Improvements
